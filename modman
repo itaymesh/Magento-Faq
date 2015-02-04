@@ -32,7 +32,4 @@ app/code/community/Studioraz/Faq/Model/Faq.php    app/code/community/Studioraz/F
 app/design/frontend/base/default/template/faq/list.phtml    app/design/frontend/base/default/template/faq/list.phtml
 app/design/frontend/base/default/template/faq/detail.phtml    app/design/frontend/base/default/template/faq/detail.phtml
 app/design/frontend/base/default/layout/faq.xml   app/design/frontend/base/default/layout/faq.xml
-app/locale/de_DE/Studioraz_Faq.csv    app/locale/de_DE/Studioraz_Faq.csv
-app/locale/ru_RU/Studioraz_Faq.csv    app/locale/ru_RU/Studioraz_Faq.csv
-app/locale/nl_NL/Studioraz_Faq.csv    app/locale/nl_NL/Studioraz_Faq.csv
 app/etc/modules/Studioraz_Faq.xml   app/etc/modules/Studioraz_Faq.xml
