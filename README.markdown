@@ -27,6 +27,6 @@ Contributions are highly appreciated.
 FAQ
 ---
 
-I'm going to install Flagbit Change Attribute Set extension and I would like ask you what happen to attribute that doesn't belong anymore to the target attribute set. Are they deleted from database records or they are orphans?
+I'm going to install Studioraz Change Attribute Set extension and I would like ask you what happen to attribute that doesn't belong anymore to the target attribute set. Are they deleted from database records or they are orphans?
 
 They are orphaned. Means if you accidently pick the wrong product and change back your attribute values are still there. if you want to clean up you have to do it manually.
