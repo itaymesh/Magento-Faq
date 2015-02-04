@@ -1,0 +1,13 @@
+{
+    "name": "itaymesh/Magento-Faq",
+    "description": "Magento Faq",
+    "type": "magento-module",
+    "homepage": "https://github.com/itaymesh/Magento-Faq",
+    "license": "OSL-3.0",
+    "authors": [
+        {
+            "name": "Studio Raz",
+            "email": "team@studioraz.co.il"
+        }
+    ]
+}
