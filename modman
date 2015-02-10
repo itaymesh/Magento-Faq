@@ -1,4 +1,4 @@
 app/code/local/Studioraz/Faq/    app/code/local/Studioraz/Faq/
 app/design/frontend/base/default/template/studioraz/faq/    app/design/frontend/base/default/template/studioraz/faq/
-app/design/frontend/base/default/layout/faq.xml   app/design/frontend/base/default/layout/faq.xml
+app/design/frontend/base/default/layout/faq.xml   app/design/frontend/base/default/layout/cd studioraz/faq.xml
 app/etc/modules/Studioraz_Faq.xml   app/etc/modules/Studioraz_Faq.xml
