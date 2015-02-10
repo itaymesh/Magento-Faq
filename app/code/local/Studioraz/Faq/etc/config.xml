@@ -3,7 +3,7 @@
 	<modules>
 		<Studioraz_Faq>
 			<active>true</active>
-			<codePool>community</codePool>
+			<codePool>local</codePool>
 			<version>1.1.2</version>
 		</Studioraz_Faq>
 	</modules>
