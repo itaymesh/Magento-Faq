@@ -42,7 +42,7 @@
 		<layout>
 			<updates>
 				<faq>
-					<file>studioraz/faq.xml</file>
+					<file>studioraz/faq/faq.xml</file>
 				</faq>
 			</updates>
 		</layout>
